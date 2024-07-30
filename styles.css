@@ -1,0 +1,16 @@
+body{
+    padding: 20px;
+    margin: 10px;
+}
+.container{
+    height: 250px;
+    width: 250px;
+    background-color: lawngreen;
+}
+.text{
+    padding-left: 40px;
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+}
